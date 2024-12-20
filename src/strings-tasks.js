@@ -1,4 +1,3 @@
-
 /* *******************************************************************************************
  *                                                                                           *
  * Please read the following tutorial before implementing tasks:                              *
@@ -632,4 +631,3 @@ module.exports = {
   encodeToRot13,
   getCardId,
 };
-
